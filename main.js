@@ -24,7 +24,7 @@ let product =[{
         id: '3',
         image: "./images/04.png",
         title: 'Oleves Watch',
-        price: 1000,
+        price: 800,
         catagory: 'cloths'},
 
         { 
@@ -37,7 +37,7 @@ let product =[{
                 id: '3',
                 image: "./images/07.png",
                 title: 'Oleves Watch',
-                price: 1000,
+                price: 1100,
                 catagory: 'cloths'}            
 ]
 
